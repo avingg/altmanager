@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "accountmanager",
+    "name": "Account Manager",
+    "description": "Allows you to sign in to Microsoft accounts in-game.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "lquifi"
+    ]
+  }
+]
