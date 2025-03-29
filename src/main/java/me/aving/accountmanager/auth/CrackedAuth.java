@@ -1,6 +1,6 @@
-package me.lquifi.accountmanager.auth;
+package me.aving.accountmanager.auth;
 
-import me.lquifi.accountmanager.AccountManager;
+import me.aving.accountmanager.AccountManager;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.Session;
 import java.lang.reflect.Field;

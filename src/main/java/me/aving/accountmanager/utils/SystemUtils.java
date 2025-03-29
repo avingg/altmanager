@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.utils;
+package me.aving.accountmanager.utils;
 
 import java.awt.*;
 import java.awt.datatransfer.StringSelection;

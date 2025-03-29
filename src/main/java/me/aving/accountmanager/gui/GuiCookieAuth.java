@@ -1,7 +1,7 @@
-package me.lquifi.accountmanager.gui;
+package me.aving.accountmanager.gui;
 
-import me.lquifi.accountmanager.auth.CookieAuth;
-import me.lquifi.accountmanager.utils.TextFormatting;
+import me.aving.accountmanager.auth.CookieAuth;
+import me.aving.accountmanager.utils.TextFormatting;
 import net.minecraft.client.gui.Gui;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiScreen;

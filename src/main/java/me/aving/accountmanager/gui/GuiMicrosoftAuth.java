@@ -1,12 +1,12 @@
-package me.lquifi.accountmanager.gui;
+package me.aving.accountmanager.gui;
 
-import me.lquifi.accountmanager.AccountManager;
-import me.lquifi.accountmanager.auth.Account;
-import me.lquifi.accountmanager.auth.MicrosoftAuth;
-import me.lquifi.accountmanager.auth.SessionManager;
-import me.lquifi.accountmanager.utils.Notification;
-import me.lquifi.accountmanager.utils.SystemUtils;
-import me.lquifi.accountmanager.utils.TextFormatting;
+import me.aving.accountmanager.AccountManager;
+import me.aving.accountmanager.auth.Account;
+import me.aving.accountmanager.auth.MicrosoftAuth;
+import me.aving.accountmanager.auth.SessionManager;
+import me.aving.accountmanager.utils.Notification;
+import me.aving.accountmanager.utils.SystemUtils;
+import me.aving.accountmanager.utils.TextFormatting;
 import net.minecraft.client.gui.Gui;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiScreen;

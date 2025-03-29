@@ -1,9 +1,9 @@
-package me.lquifi.accountmanager;
+package me.aving.accountmanager;
 
-import me.lquifi.accountmanager.auth.Account;
-import me.lquifi.accountmanager.auth.SessionManager;
-import me.lquifi.accountmanager.gui.GuiAccountManager;
-import me.lquifi.accountmanager.utils.TextFormatting;
+import me.aving.accountmanager.auth.Account;
+import me.aving.accountmanager.auth.SessionManager;
+import me.aving.accountmanager.gui.GuiAccountManager;
+import me.aving.accountmanager.utils.TextFormatting;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.gui.GuiDisconnected;

@@ -1,11 +1,11 @@
-package me.lquifi.accountmanager.auth;
+package me.aving.accountmanager.auth;
 
 import com.google.gson.Gson;
-import me.lquifi.accountmanager.AccountManager;
-import me.lquifi.accountmanager.gui.GuiAccountManager;
-import me.lquifi.accountmanager.gui.GuiCookieAuth;
-import me.lquifi.accountmanager.utils.Notification;
-import me.lquifi.accountmanager.utils.TextFormatting;
+import me.aving.accountmanager.AccountManager;
+import me.aving.accountmanager.gui.GuiAccountManager;
+import me.aving.accountmanager.gui.GuiCookieAuth;
+import me.aving.accountmanager.utils.Notification;
+import me.aving.accountmanager.utils.TextFormatting;
 import net.minecraft.util.Session;
 
 import javax.net.ssl.HttpsURLConnection;

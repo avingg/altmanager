@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.utils;
+package me.aving.accountmanager.utils;
 
 @SuppressWarnings("unused")
 public enum TextFormatting {

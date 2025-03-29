@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.utils;
+package me.aving.accountmanager.utils;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.io.BufferedReader;

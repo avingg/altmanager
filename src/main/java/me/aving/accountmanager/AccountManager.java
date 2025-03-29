@@ -1,10 +1,10 @@
-package me.lquifi.accountmanager;
+package me.aving.accountmanager;
 
 import com.google.gson.*;
-import me.lquifi.accountmanager.auth.Account;
-import me.lquifi.accountmanager.auth.AccountType;
-import me.lquifi.accountmanager.auth.CookieAuth;
-import me.lquifi.accountmanager.gui.GuiCookieAuth;
+import me.aving.accountmanager.auth.Account;
+import me.aving.accountmanager.auth.AccountType;
+import me.aving.accountmanager.auth.CookieAuth;
+import me.aving.accountmanager.gui.GuiCookieAuth;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraftforge.common.MinecraftForge;

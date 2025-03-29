@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.auth;
+package me.aving.accountmanager.auth;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.Session;

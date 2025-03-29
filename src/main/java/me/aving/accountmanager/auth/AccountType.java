@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.auth;
+package me.aving.accountmanager.auth;
 
 public enum AccountType {
     CRACKED, // For cracked (offline) accounts

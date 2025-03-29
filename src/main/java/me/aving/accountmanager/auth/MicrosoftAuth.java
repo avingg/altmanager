@@ -1,4 +1,4 @@
-package me.lquifi.accountmanager.auth;
+package me.aving.accountmanager.auth;
 
 import com.google.gson.*;
 import com.sun.net.httpserver.HttpServer;
